@@ -5,12 +5,6 @@ This project aims to analyze customer shopping trends to enhance sales, improve 
 2., Trend identification
 3., Revenue optimization
 4., Sales and retention improvement
-## Table of Contents
-1. [project-overview](##1.-Project-Overview)
-2. [tools-&-methodology](#tools-&-methodology)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [conclusion](##7.-Conclusion)
 ## 2. Tools & Methodology
 This project utilizes Excel and Power Query for data transformation, analysis, and visualization. Key steps include:
 Data Cleaning & Transformation: Using Power Query to structure, filter, and refine data.
