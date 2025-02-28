@@ -6,7 +6,7 @@ This project aims to analyze customer shopping trends to enhance sales, improve 
 3., Revenue optimization
 4., Sales and retention improvement
 ## Table of Contents
-1. [project-overview](#project-overview)
+1. [project-overview](##1.-Project-Overview)
 2. [tools-&-methodology](#tools-&-methodology)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
